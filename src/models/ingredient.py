@@ -61,4 +61,3 @@ class Ingredient:
 
     def __repr__(self) -> str:
         return f"Ingredient('{self.name}')"
-# iniciando projeto
